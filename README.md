@@ -1,15 +1,15 @@
 Spark - a Sinatra inspired web framework
 ==============================================
 
-MESSAGE: I've been on a long summer vacation and have not worked anything on the project. I will soon start to catch up on the pull requests and issues. // Per Wendel
+For more detailed documentation please go to: http://sparkjava.com
 
-NEWS: Spark 2.0.0 with Lambda support is now available on Maven central!!! :
+NEWS: Spark 2.1 is now available on Maven central!!! :
 
 ```xml
     <dependency>
         <groupId>com.sparkjava</groupId>
         <artifactId>spark-core</artifactId>
-        <version>2.0.0</version>
+        <version>2.1</version>
     </dependency>
 ```
 
